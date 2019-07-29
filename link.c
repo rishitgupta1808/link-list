@@ -129,7 +129,7 @@ struct x*p;
 p=NULL;
 do
 {
-printf("which operation you want to do");
+printf("which operation you want to do\n  1.Add an item in the last");
 scanf("%d",&k);
  
 switch(k)
